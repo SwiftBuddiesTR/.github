@@ -19,7 +19,7 @@ Biz Buddies Topluluğu olarak, yazılım dünyasında bir aile olmanın ne demek
 ## Projelerimiz
 
 - **[iOS Client](https://github.com/SwiftBuddiesTR/BuddiesIOS):** Buddies Community iOS uygulaması, iOS geliştiricilerin bir araya gelmesini sağlayan, etkileşimli bir platformdur. Katılımcılar, topluluk etkinliklerini takip edebilir, etkileşimde bulunabilir ve projeye katkıda bulunabilirler.
-- **[Backend Services](https://github.com/SwiftBuddiesTR/BuddiesIOS):** Buddies Community'nin arkasındaki güçlü altyapı. Bu hizmetler, uygulamanın güvenli ve güvenilir bir şekilde çalışmasını sağlamak için gereklidir.
+- **[Backend Services](-) (Yapım aşamasında):** Buddies Community'nin arkasındaki güçlü altyapı. Bu hizmetler, uygulamanın güvenli ve güvenilir bir şekilde çalışmasını sağlamak için gereklidir.
 
 ## Nasıl Katkı Sağlayabilirsiniz?
 
